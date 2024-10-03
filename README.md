@@ -1,4 +1,4 @@
-get: http://localhost:8080/postProses
+Post: http://localhost:8080/postProses
 get: http://localhost:8080/proses
 get: http://localhost:8080/proses/{id}
 
